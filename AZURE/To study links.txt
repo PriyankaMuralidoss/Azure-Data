@@ -1,0 +1,11 @@
+ADF Links
+
+https://teams.live.com/l/message/19:meeting_MzgwZGVkZTItZTZkMi00OWEwLThmYWYtZjgyMGI0MTEzYjgy@thread.v2/1746153364962?context=%7B%22contextType%22%3A%22chat%22%7D
+
+https://teams.live.com/l/message/19:meeting_MzgwZGVkZTItZTZkMi00OWEwLThmYWYtZjgyMGI0MTEzYjgy@thread.v2/1746153765321?context=%7B%22contextType%22%3A%22chat%22%7D
+
+https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-data-factory-passing-parameters/Azure%20data%20Factory-Whitepaper-PassingParameters.pdf
+
+https://learn.microsoft.com/en-us/azure/data-factory/control-flow-get-metadata-activity
+
+https://azure.microsoft.com/en-us/pricing/free-services---->Free 1 year blob storage details here(5GB)
